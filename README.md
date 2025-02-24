@@ -5,12 +5,34 @@ Frontend Student
 ----------------
 
 \# Hello, I'm Lewis Mwilitsa 👋 
-## Introduction Hi there! I'm Lewis Mwilitsa, a passionate learner and aspiring developer. I love diving into the world of programming and exploring new technologies. 
-## Learning Goals/Interests - \*\*Current Learning Goals:\*\* - Mastering Python and JavaScript - Building full-stack web applications - Exploring data science and machine learning - 
-\*\*Interests:\*\* - Problem-solving and puzzles - Cryptocurrency and digital finance - Developing innovative solutions to real-world problems 
-## Technologies/Languages - \*\*Languages:\*\* - Python - JavaScript - HTML/CSS ## Technologies: - HTML5 - CSS3 - JavaScript - React - Next.js - Tailwind CSS 
-## Projects/Coursework - \*\*Current Projects:\*\* - \[Project Name\](URL): Brief description of the project. - \[Project Name\](URL): Brief description of the project. 
-- \*\*Coursework:\*\* - Computer Programming: Focusing on web development and software engineering fundamentals.
+## Introduction 
+Hi there! I'm Lewis Mwilitsa, a passionate learner and aspiring developer. I love diving into the world of programming and exploring new technologies. 
+## Learning Goals/Interests 
+- \*\*Current Learning Goals:\*\*
+- Mastering Python and JavaScript
+- Building full-stack web applications - Exploring data science and machine learning - 
+\*\*Interests:\*\*
+- Problem-solving and puzzles
+- Cryptocurrency and digital finance
+- Developing innovative solutions to real-world problems 
+## Technologies/Languages 
+- \*\*Languages:\*\*
+- Python
+- JavaScript
+- HTML/CSS
+## Technologies:
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Next.js
+- Tailwind CSS 
+## Projects/Coursework
+- \*\*Current Projects:\*\*
+- \[Project Name\](URL): Brief description of the project.
+- \[Project Name\](URL): Brief description of the project. 
+- \*\*Coursework:\*\*
+- Computer Programming: Focusing on web development and software engineering fundamentals.
 
 * 🌍  I'm based in Nairobi
 * ✉️  You can contact me at [Lewismwilitsa00@gmail.com](mailto:Lewismwilitsa00@gmail.com)
