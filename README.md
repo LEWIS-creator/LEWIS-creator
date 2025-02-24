@@ -8,7 +8,7 @@ Frontend Student
 ## Introduction 
 Hi there! I'm Lewis Mwilitsa, a passionate learner and aspiring developer. I love diving into the world of programming and exploring new technologies. 
 ## Learning Goals/Interests 
-- \*\*Current Learning Goals:\*\*
+\*\*Current Learning Goals:\*\*
 - Mastering Python and JavaScript
 - Building full-stack web applications - Exploring data science and machine learning - 
 \*\*Interests:\*\*
