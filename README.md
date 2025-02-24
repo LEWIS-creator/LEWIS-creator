@@ -16,7 +16,7 @@ Hi there! I'm Lewis Mwilitsa, a passionate learner and aspiring developer. I lov
 - Cryptocurrency and digital finance
 - Developing innovative solutions to real-world problems 
 ## Technologies/Languages 
-- \*\*Languages:\*\*
+\*\*Languages:\*\*
 - Python
 - JavaScript
 - HTML/CSS
@@ -28,7 +28,7 @@ Hi there! I'm Lewis Mwilitsa, a passionate learner and aspiring developer. I lov
 - Next.js
 - Tailwind CSS 
 ## Projects/Coursework
-- \*\*Current Projects:\*\*
+\*\*Current Projects:\*\*
 - \[Project Name\](URL): Brief description of the project.
 - \[Project Name\](URL): Brief description of the project. 
 - \*\*Coursework:\*\*
