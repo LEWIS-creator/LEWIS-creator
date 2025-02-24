@@ -31,7 +31,7 @@ Hi there! I'm Lewis Mwilitsa, a passionate learner and aspiring developer. I lov
 \*\*Current Projects:\*\*
 - \[Project Name\](URL): Brief description of the project.
 - \[Project Name\](URL): Brief description of the project.
-## \*\*Coursework:\*\*
+\*\*Coursework:\*\*
 - Computer Programming: Focusing on web development and software engineering fundamentals.
 
 * 🌍  I'm based in Nairobi
